@@ -15,7 +15,7 @@
 
 ## Como instalar
 <ol>
-    <li>Escolha um local para manter a pasta da extensão no seu dispositivo (se esse diretório for mudado futuramente, a extensão irá parar de funcionar).</li>
+    <li>Baixe a pasta "EMR-Applications-URL-Transform" e escolha um local para mantê-la no seu dispositivo (se esse diretório for mudado futuramente, a extensão irá parar de funcionar).</li>
     <li>Acesse "chrome://extensions/".</li>
     <li>No canto superior direito, ative o "Modo do desenvolvedor".</li>
     <li>Clique em "Carregar sem compactação".</li>
