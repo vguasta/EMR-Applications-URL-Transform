@@ -3,10 +3,10 @@
 ## Descrição do projeto
 <p>Extensão para Google Chrome que transforma a URL das aplicações da AWS-EMR, removendo pontos e adequando-a para ser acessada em um click.</p>
 
-<ol>
+<ul>
     <li>Compatível com Chrome e outros navegadores.</li>
     <li>Testado com Chrome e Opera.</li>
-</ol>
+</ul>
 
 ## Exemplo de execução
 <p align="center">
