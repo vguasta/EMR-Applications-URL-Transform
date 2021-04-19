@@ -1,13 +1,17 @@
 # EMR-Applications-URL-Transform
 
 ## Descrição do projeto
-<p>Transforma a URL das aplicações da AWS-EMR, removendo pontos e adequando-a para ser acessada em um click.</p>
-<br>
-<p>Compatível com Chrome e outros navegadores.</p>
-<p>Testado com Chrome e Opera.</p>
+<p>Extensão para Google Chrome que transforma a URL das aplicações da AWS-EMR, removendo pontos e adequando-a para ser acessada em um click.</p>
+
+<ol>
+    <li>Compatível com Chrome e outros navegadores.</li>
+    <li>Testado com Chrome e Opera.</li>
+</ol>
 
 ## Exemplo de execução
-<img src="Example.png" alt="Exemplo de execução" />
+<p align="center">
+    <img src="Example.png" alt="Exemplo de execução" />
+</p>
 
 ## Como instalar
 <ol>
