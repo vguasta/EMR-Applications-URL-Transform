@@ -28,4 +28,3 @@
     <li>Procure por "EMR Applications URL Transform".</li>
     <li>Clique no alfinete "Fixar".</li>
 </ol>
-
