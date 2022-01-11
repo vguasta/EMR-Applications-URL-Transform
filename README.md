@@ -29,4 +29,3 @@
     <li>Clique no alfinete "Fixar".</li>
 </ol>
 
-.
